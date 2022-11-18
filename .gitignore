@@ -1,0 +1,6 @@
+﻿Client/client/.angular
+Client/client/.vscode
+Client/package-lock.json
+SignalR/.vs
+SignalR/obj
+SignalR/bin
